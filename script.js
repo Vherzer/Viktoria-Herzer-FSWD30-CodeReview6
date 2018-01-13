@@ -13,7 +13,7 @@
 
         "Minutes": "63",
 
-        "Rating": 0
+        "Rating": 3
 
     }, {
 
@@ -27,7 +27,7 @@
 
         "Minutes": "42",
 
-        "Rating": 0
+        "Rating": 4
 
       }, {
 
@@ -41,7 +41,7 @@
 
         "Minutes": "32",
 
-        "Rating": 0
+        "Rating": 5
 
     }   
 
@@ -61,7 +61,7 @@
 
         "Publisher": "Charles Scribner's Sons",
 
-        "Rating": 0
+        "Rating": 4
 
 
     }, {
@@ -74,7 +74,7 @@
 
         "Publisher": "Vintage International",
 
-        "Rating": 0
+        "Rating": 5
 
       }, {
 
@@ -86,7 +86,7 @@
 
         "Publisher": "Geoffrey Bles",
 
-        "Rating": 0
+        "Rating": 2
 
     }   
 
@@ -104,7 +104,7 @@
 
         "Genre": "Comedy",
 
-        "Rating": 0
+        "Rating": 5
 
     }, {
 
@@ -114,7 +114,7 @@
 
         "Genre": "Sci-Fi / Thriller",
 
-        "Rating": 0
+        "Rating": 5
 
       }, {
 
@@ -124,7 +124,7 @@
 
         "Genre": "Disaster Film/ Romance",
 
-        "Rating": 0
+        "Rating": 4
 
     }   
 
@@ -144,7 +144,7 @@
 
         "Author": "Bill Finger",
 
-        "Rating": 0
+        "Rating": 4
 
     }, {
 
@@ -156,7 +156,7 @@
 
         "Author": "Stan Lee",
 
-        "Rating": 0
+        "Rating": 4
 
       }, {
 
@@ -168,7 +168,7 @@
 
         "Author": "William Moulton Marston",
 
-        "Rating": 0
+        "Rating": 3
 
     }   
 
